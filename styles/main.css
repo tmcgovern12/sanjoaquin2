@@ -97,6 +97,10 @@ section li {
     display: flex;
 }
 
+#nav_menu li {
+	width: 20%;
+}
+
 #nav_menu a {
     text-align: center;
     display: block;
