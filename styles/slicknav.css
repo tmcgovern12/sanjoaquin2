@@ -1,32 +1,29 @@
-/*
-    Mobile Menu Core Style
-*/
+
 
 .slicknav_btn {
 	position: relative;
 	display: block;
-	vertical-align: middle;
 	float: right;
-	padding: 0.438em 0.625em 0.438em 0.625em;
-	line-height: 1.125em;
+	padding: 7px 10px; 
+	line-height: 20px; 
 	cursor: pointer;
 }
 .slicknav_menu .slicknav_menutxt {
 	display: block;
-	line-height: 1.188em;
+	line-height: 24px; 
 	float: left;
 }
 .slicknav_menu .slicknav_icon {
 	float: left;
-	margin: 0.188em 0 0 0.438em;
+	margin: 3px 0 0 7px; 
 }
 .slicknav_menu .slicknav_no-text {
 	margin: 0
 }
 .slicknav_menu .slicknav_icon-bar {
 	display: block;
-	width: 1.125em;
-	height: 0.125em;
+	width: 18px; 
+	height: 2px; 
 	-webkit-border-radius: 1px;
 	-moz-border-radius: 1px;
 	border-radius: 1px;
@@ -35,13 +32,13 @@
 	box-shadow: 0 1px 0 rgba(0, 0, 0, 0.25);
 }
 .slicknav_btn .slicknav_icon-bar + .slicknav_icon-bar {
-	margin-top: 0.188em
+	margin-top: 3px; 
 }
 .slicknav_nav {
-	clear: both
+	clear: both;
 }
 .slicknav_nav ul, .slicknav_nav li {
-	display: block
+	display: block;
 }
 .slicknav_nav .slicknav_arrow {
 	font-size: 0.8em;
@@ -70,12 +67,9 @@
 }
 
 .slicknav_menu {
-	*zoom: 1;
+	zoom: 1em;
 }
-/* 
-    User Default Style
-    Change the following styles to modify the appearance of the menu.
-*/
+
 
 .slicknav_menu {
 	font-size: 16px;
@@ -108,7 +102,7 @@
 	color: #fff;
 	margin: 0;
 	padding: 0;
-	font-size: 0.875em;
+	font-size: 14px; 
 }
 .slicknav_nav, .slicknav_nav ul {
 	list-style: none;

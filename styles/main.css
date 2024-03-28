@@ -14,7 +14,7 @@ html {
 }
 body {
 	font-family: Arial, Helvetica, sans-serif;
-	font-size: 100%;
+	font-size: 16px; 
 	width: 90%; 
 	margin: 0 auto;
 	border: 3px solid #931420;
@@ -41,11 +41,11 @@ header {
 
 
 header h2 {
-	font-size: 175%;
+	font-size: 28px; 
 	color: #800000;
 }
 header h3 {
-	font-size: 130%;
+	font-size: 20.8px;
 	font-style: italic;
 }
 header img {
@@ -66,13 +66,13 @@ section {
 	padding: 0 2% 2% 2%; 
 }
 section h1 {
-	font-size: 60%;
+	font-size: 9.6px;
 	padding: .5em 0 .25em 0;
 	margin: 0;
 }
 section h2 {
 	color: #800000;
-	font-size: 80%;
+	font-size: 12.8px; 
 	padding: .5em 0 .25em 0;
 }
 section p {
@@ -129,7 +129,7 @@ article h2 {
 	padding-top: 0;
 }
 article h3 {
-	font-size: 105%;
+	font-size: 21px; 
 	padding-bottom: .25em;
 }
 article img {
@@ -150,11 +150,11 @@ aside {
 }
 aside h2 {
 	color: #800000;
-	font-size: 130%;
+	font-size: 16.9px; 
 	padding: .5em 0 .25em 0;
 }
 aside h3 {
-	font-size: 105%;
+	font-size: 16.8px; 
 	padding-bottom: .25em;
 }
 aside img {
@@ -176,7 +176,7 @@ footer p {
 	  box-shadow: none; 
 	}
 	a {
-	  font-size: 90%;
+	  font-size: 14.4px; 
 	}
   }
 
@@ -212,11 +212,11 @@ footer p {
 
 
 	header h2 {
-        font-size: 90%; 
+        font-size: 14.4px; 
     }
 
     header h3 {
-        font-size: 75%; 
+        font-size: 12px; 
     }
 
 
